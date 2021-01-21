@@ -4,7 +4,7 @@ input your sample dna sequence
 data visualization
 
 written in python
-libraries used: streamlit, pandas, altair
+* **Python libraries:** pandas, streamlit, altair
 
 to run:
 
