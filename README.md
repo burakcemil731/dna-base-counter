@@ -5,3 +5,8 @@ data visualization
 
 written in python
 libraries used: streamlit, pandas, altair
+
+to run:
+
+python -m venv G:\codeprojects\DataScience\venv
+streamlit run main.py
